@@ -13,7 +13,7 @@ You will need to place preset in your Gradience preset folder.
 
 Open Gradience and then select preset 
 
-<h2>Optionally:</h2>
+<h2>Optionally</h2>
 As of right now the volume sliders and some selector overlays don't seem to be taking to the theming, for me at least, so I have added my gnome-shell theme as well to make those adjustments. These will need to go into your `.themes/` folder and you can use `gnome-tweaks` to select it as your shell theme. 
 <p></p>
 Navigate to the `gradience-synthwave` folder
